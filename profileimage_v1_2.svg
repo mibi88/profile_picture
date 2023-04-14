@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <ellipse cx="316" cy="244" fill="#000000" fill-opacity="0" id="svg_1" rx="161" ry="56" stroke="#000000" stroke-width="5"/>
+  <ellipse cx="316" cy="244" fill="#000000" fill-opacity="0" id="svg_3" rx="161" ry="56" stroke="#000000" stroke-width="5" transform="rotate(22.567 316 244)"/>
+  <ellipse cx="314.999985" cy="244.000008" fill="#000000" fill-opacity="0" id="svg_4" rx="161" ry="56" stroke="#000000" stroke-width="5" transform="rotate(52.0165 315 244)"/>
+  <ellipse cx="314" cy="244.000023" fill="#000000" fill-opacity="0" id="svg_5" rx="161" ry="56" stroke="#000000" stroke-width="5" transform="rotate(75.9637 314 244)"/>
+  <ellipse cx="315.000031" cy="244.000008" fill="#000000" fill-opacity="0" id="svg_6" rx="161" ry="56" stroke="#000000" stroke-width="5" transform="rotate(97.7336 315 244)"/>
+  <ellipse cx="315.000046" cy="243.999977" fill="#000000" fill-opacity="0" id="svg_7" rx="161" ry="56" stroke="#000000" stroke-width="5" transform="rotate(117.897 315 244)"/>
+  <ellipse cx="315.000053" cy="243.999931" fill="#000000" fill-opacity="0" id="svg_8" rx="161" ry="56" stroke="#000000" stroke-width="5" transform="rotate(139.399 315 244)"/>
+  <ellipse cx="315.000053" cy="243.99984" fill="#000000" fill-opacity="0" id="svg_9" rx="161" ry="56" stroke="#000000" stroke-width="5" transform="rotate(159.057 315 244)"/>
+  <path d="m209,125l-14,-97" fill="none" fill-opacity="0" id="svg_10" stroke="#000000" stroke-width="5"/>
+  <line fill="none" fill-opacity="0" id="svg_11" stroke="#000000" stroke-width="5" x1="195" x2="262" y1="30" y2="96"/>
+  <line fill="none" fill-opacity="0" id="svg_16" stroke="#000000" stroke-width="5" x1="390.714286" x2="443.714286" y1="102.142857" y2="34.142857"/>
+  <line fill="none" fill-opacity="0" id="svg_17" stroke="#000000" stroke-width="5" x1="442.714286" x2="426.714286" y1="36.142857" y2="131.142857"/>
+  <ellipse cx="287.333333" cy="221.666667" fill="#000000" id="svg_18" rx="15" ry="15" stroke="#000000" stroke-width="5" transform="matrix(1 0 0 1 0 0)"/>
+  <ellipse cx="341.333333" cy="221.166651" fill="#000000" id="svg_20" rx="15" ry="15" stroke="#000000" stroke-width="5"/>
+  <ellipse cx="338.833332" cy="217.5" fill="#ffffff" id="svg_22" rx="7.5" ry="7.5" stroke="#000000" stroke-width="5"/>
+  <ellipse cx="284.333332" cy="218.5" fill="#ffffff" id="svg_23" rx="7.5" ry="7.5" stroke="#000000" stroke-width="5" transform="matrix(1 0 0 1 0 0)"/>
+  <ellipse cx="314.333333" cy="243" fill="#000000" id="svg_24" rx="17" ry="4" stroke="#000000" stroke-width="5"/>
+  <line fill="none" id="svg_26" stroke="#000000" stroke-width="5" x1="313.333333" x2="313.333333" y1="248" y2="278.999998"/>
+  <path d="m351.33333,251c-8,15.83333 -21.33333,27.29825 -36,29.5c-14.66667,2.20175 -26.33333,-13.59649 -32,-26.39474" fill="none" fill-opacity="0" id="svg_27" stroke="#000000" stroke-width="5"/>
+  <line fill="none" fill-opacity="0" id="svg_30" stroke="#000000" stroke-width="5" x1="226.714286" x2="212.714286" y1="110.428571" y2="69.428571"/>
+  <line fill="none" fill-opacity="0" id="svg_31" stroke="#000000" stroke-width="5" x1="257.714286" x2="213.714286" y1="99.428571" y2="72.428571"/>
+  <line fill="none" fill-opacity="0" id="svg_32" stroke="#000000" stroke-width="5" x1="397.714286" x2="425.714286" y1="108.428571" y2="78.428571"/>
+  <line fill="none" fill-opacity="0" id="svg_33" stroke="#000000" stroke-width="5" x1="424.714286" x2="414.714286" y1="80.428571" y2="130.428571"/>
+  <text fill="#000000" font-family="Monospace" font-size="24" id="svg_35" stroke="#000000" stroke-width="0" text-anchor="middle" x="474" xml:space="preserve" y="367.6">Mibi88</text>
+  <text fill="#000000" font-family="Monospace" font-size="24" font-weight="bold" id="svg_2" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(0.438272 0 0 0.340014 127.222 247.632)" x="117" xml:space="preserve" y="396">CC BY-NC-SA 4.0</text>
+ </g>
+</svg>
